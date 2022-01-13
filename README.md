@@ -1,7 +1,7 @@
 Role Name: IC-webapp
 =========
 
-Deploy a odoo 
+Deploy a ic-webapp 
 
 Requirements
 ------------
