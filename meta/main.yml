@@ -1,0 +1,6 @@
+---
+galaxy_info:
+  role_name: ic_webapp_role
+  author: Unklebens
+  description: Ansible ic_webapp role
+

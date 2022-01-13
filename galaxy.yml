@@ -1,0 +1,9 @@
+---
+namespace: community
+name: ic_webapp-role
+version: 1.0
+authors:
+  - Unklebens
+description: Install ic_webapp
+repository: https://github.com/Unklebens/ic_webapp_role.git
+ 

@@ -1,0 +1,11 @@
+version: '2'
+services:
+  ic-webapp:
+    image: itirenegad/ic-webapp:1.0
+    container_name: "ic-webapp"
+    restart: always
+    environment:
+      - ODOO_URL={{ odoo_url }}
+      - PGADMIN_URL={{ pgadmin_url }}
+    ports:
+      - "80:80"
